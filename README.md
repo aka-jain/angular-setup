@@ -25,6 +25,11 @@ Angular 1.5 setup with bower, SASS, gulp, npm
 2. Lodash
 3. Materialize CSS
 
+##Extra Dependencies
+1. Font Awesome
+2. Animate.css
+3. WOW.js (to be included)
+
 ##How to start (be ready with node installed on you rmacine)
 ```
   npm install
@@ -43,7 +48,7 @@ For production
   gulp prod
   gulp watch
 ```
-To change Environment variables for dev.prod, change config.json file.
+To configure Environment variables for dev/prod, change config.json file.
 
 
 
