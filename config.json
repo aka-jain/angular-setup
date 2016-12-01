@@ -1,0 +1,12 @@
+{
+    "local": {
+        "EnvironmentConfig": {
+            "API": "http://localhost:8000/api/"
+        }
+    },
+    "production": {
+        "EnvironmentConfig": {
+            "API": "http://my-base-url:8080/api/" 
+        }
+    }
+}
