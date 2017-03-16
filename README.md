@@ -30,7 +30,7 @@ Angular 1.5 setup with bower, SASS, gulp, npm
 2. Animate.css
 3. WOW.js (to be included)
 
-##How to start (be ready with node installed on you rmacine)
+##How to start (be ready with node installed on your machine)
 ```
   npm install
   bower install
